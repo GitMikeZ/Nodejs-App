@@ -1,4 +1,6 @@
 { 
-    "uname": "test",
-    "pwd": "test"
+    "uname": "username",
+    "pwd": "password"
 }
+
+// Note: not actual password and username :)
